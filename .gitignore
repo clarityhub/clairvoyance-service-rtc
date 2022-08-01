@@ -1,0 +1,16 @@
+node_modules
+.yarn-cache
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# keys
+
+jwt-secret.pem
+jwt-secret
+
+settings.json
